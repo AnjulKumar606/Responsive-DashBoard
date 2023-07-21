@@ -1,0 +1,27 @@
+#TopBar {
+    border-bottom: 1px solid rgb(34, 33, 33);
+}
+
+#TopBar>div {
+    background: #000;
+    justify-content: space-between;
+    min-height: 72px;
+}
+
+#TopSearchBar {
+    background-color: #000;
+    border: 1px solid rgb(18, 17, 17);
+    padding-left: 10px;
+    font-size: small;
+    height: 23px;
+}
+
+#SearchButton {
+    background-color: white;
+    color: #000;
+    padding: 8px;
+}
+
+#TopSearch{
+    display: flex;
+}

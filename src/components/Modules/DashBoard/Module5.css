@@ -1,0 +1,36 @@
+h5 {
+    margin: 0;
+}
+
+#Card>div {
+    padding: 0px 0px 16px 0px;
+}
+
+#CardContent {
+    height: 200px;
+}
+
+.CardSubContent {
+    padding: 0px;
+}
+
+.CardSubContent>div {
+    padding: 0px;
+}
+
+.CardSpace {
+    display: flex;
+}
+
+.CardSpace>div {
+    height: 300px;
+    margin: 0px 10px 0px 0px;
+}
+
+.swiper-pagination {
+    color: whitesmoke;
+    height: 20px;
+    font-size: medium;
+    position: relative;
+    top: 0;
+}

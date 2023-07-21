@@ -1,0 +1,45 @@
+#SideNav>div {
+    justify-content: space-between
+}
+
+
+.ButtonsLayout {
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    width: 100%;
+    height: 32px;
+
+}
+
+#AvatarButton {
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: 56px;
+}
+
+.ButtonsLayout>svg{
+    height: 28px;
+    width: 28px;
+}
+
+#AvatarIcon {
+    min-width: 40px;
+}
+
+#UpperButtons {
+    padding-top: 10px;
+}
+
+#UpperButtons>li>div {
+    /* padding: 10px 16px; */
+}
+
+#LowerButtons {
+    padding-bottom: 15px;
+}
+

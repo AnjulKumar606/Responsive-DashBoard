@@ -1,0 +1,13 @@
+#WorkArea {
+    padding: 0;
+    margin: 0;
+    top: 72px;
+    position: relative;
+    float: right;
+    /* height: calc(100vh - 72px); 
+    width: calc(100vw - 125px); */
+
+}
+/* 16px padding of elements in grid 
+125px width of sidenav bar */
+/*Top nav bar height*/
