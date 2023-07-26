@@ -6,10 +6,10 @@ This is a responsive dashboard built using React, MUI (Material-UI), Chart.js, a
 
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Technologies](#technologies)
-6. [License](#license)
+3. [Demo](#demo)
+4. [Installation](#installation)
+5. [Usage](#usage)
+
 
 ## Introduction
 
