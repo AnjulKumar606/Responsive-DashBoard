@@ -18,7 +18,8 @@ Welcome to our responsive dashboard! This project aims to provide a user-friendl
 
 ## Demo
 
-Insert gif or link to demo
+https://github.com/AnjulKumar606/Responsive-DashBoard/assets/92917310/88006f90-db12-465f-b053-d99810e9cf9f
+
 
 ## Features
 
